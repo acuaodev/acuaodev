@@ -1,6 +1,6 @@
 # Hola 👋
 
-Soy un **Desarrollador de Software** con más de 5 años de experiencia, apasionado por transformar datos en soluciones impactantes y visualizaciones claras. Mi camino profesional me ha llevado a combinar el desarrollo de aplicaciones robustas y escalables con el **Análisis de Datos**, permitiéndome ofrecer una perspectiva integral en cada proyecto.
+Soy un **Desarrollador de Software** apasionado por transformar datos en soluciones impactantes y visualizaciones claras. Mi camino profesional me ha llevado a combinar el desarrollo de aplicaciones robustas y escalables con el **Análisis de Datos**, permitiéndome ofrecer una perspectiva integral en cada proyecto.
 
 Constantemente busco optimizar procesos y extraer insights valiosos a partir de los datos para la toma de decisiones estratégicas.
 
@@ -8,7 +8,7 @@ Constantemente busco optimizar procesos y extraer insights valiosos a partir de 
 
 ## ✨ Sobre Mí
 
-* 💻 Más de 5 años creando soluciones de software innovadoras.
+* 💻 Experiencia creando soluciones de software innovadoras.
 * 📊 Experiencia en análisis de datos, limpieza, transformación y visualización.
 * 🌐 Apasionado por el desarrollo web, las arquitecturas limpias y el código eficiente.
 * 🧠 Entusiasta del aprendizaje continuo y de los desafíos tecnológicos.
@@ -20,7 +20,7 @@ Aquí un vistazo a las tecnologías con las que trabajo principalmente:
 
 **Desarrollo de Software:**
 
-[![Mis Habilidades de Desarrollo](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,graphql,firebase,docker,py,dotnet,aws)](https://skillicons.dev)
+[![Mis Habilidades de Desarrollo](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,graphql,firebase,docker,py,dotnet)](https://skillicons.dev)
 
 **Análisis y Visualización de Datos:**
 
